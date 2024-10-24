@@ -1,5 +1,4 @@
 1.Membuat folder dengan nama project_uts_mona
-![alt text](image-9.png)
 
 2.Membuat folder di lib dengan nama models dan pages
 lalu membuat file dengan nama user.dart di folder models, membuat file home.dart,login.dart,register.dart dan main.dart
